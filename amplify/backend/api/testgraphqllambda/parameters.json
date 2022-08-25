@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "testgraphqllambda",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-08-24T19:41:17.410Z"
+}

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "api": {
+      "testgraphqllambda": [
+        "Query",
+        "Mutation"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
